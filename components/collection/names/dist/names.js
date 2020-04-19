@@ -1,0 +1,17 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.ENTRIES = 'entries';
+exports.MAIL = 'mail';
+exports.ORGANIZATIONS = 'organizations';
+exports.PERMISSIONS = 'permissions';
+exports.SCHEMAS = 'schema';
+exports.OPERATORS = 'operators';
+exports.TEAMS = 'teams';
+exports.USERS = 'users';
+exports.SCHEDULE = 'schedule';
+exports.LOGS = 'logs';
+exports.FILES = 'files';
+exports.SUPPORT = 'support';
+exports.REPLIES = 'replies';
+exports.NOTIFICATIONS = 'notification';
+exports.TEST = 'test';

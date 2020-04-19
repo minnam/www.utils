@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@bit/www.utils.collection.names": "file:./components/collection/names"
+  }
+}
